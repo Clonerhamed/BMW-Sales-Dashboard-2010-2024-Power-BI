@@ -127,7 +127,7 @@ This dashboard provides valuable insights for:
 
 **Hamed Goldoust**
 
-Power BI | Data Analytics | Data Scientist | Business Intelligence  
+Power BI | Data Analytics | Data Scientist
 
 GitHub: https://github.com/clonerhamed
 LinkedIn: https://linkedin.com/in/hamed-goldoust/
